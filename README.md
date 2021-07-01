@@ -18,6 +18,7 @@ These are approximate. You will see it at these locations but the "connection" p
 
 * 24.63.24 <-> 134.76.-34
 * 134.76.-34 <-> 167.63.-346
+* 167.63.-346 <-> -267.63.-738
 
 ## Points of Interest
 
