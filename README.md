@@ -1,27 +1,11 @@
-# Minecraft Stuff
+# World Information
 
-## Locations of Bases
+## World Seed
 
-Wil
-* 0.0 Main Location
+1961112519600913
 
-Matt
-* 134.76.-34 Main Location
+## Wilson's Stuff
 
-Wilson 
-* 167.63.-346 Tower
-* -267,63,-738 Sand Pit
+Around `62,000 ~ -6000`
 
-## Skyroad Connects
-
-These are approximate. You will see it at these locations but the "connection" point might be a bit off for asthetic reasons. The road will make your Y 130 while you are on it.
-
-* 24.63.24 <-> 134.76.-34
-* 134.76.-34 <-> 167.63.-346
-* 167.63.-346 <-> -267.63.-738
-
-## Points of Interest
-
-Villages
-* 543.0.-178
-* -1240.64.-289
+Once actual things are build, exact locations can be put down. But that puts you near where stuff is planned to be.
