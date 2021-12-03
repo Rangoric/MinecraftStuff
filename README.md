@@ -6,6 +6,8 @@
 
 ## Wilson's Stuff
 
-Around `62,000 ~ -6000`
+`62000 ~ -6000`
+
+Farm Tower at `61055 ~ -5743`
 
 Once actual things are build, exact locations can be put down. But that puts you near where stuff is planned to be.
